@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1004560252368",
+    "firebase_url": "https://workshopmap-dc9b9-default-rtdb.firebaseio.com",
+    "project_id": "workshopmap-dc9b9",
+    "storage_bucket": "workshopmap-dc9b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004560252368:android:fab8f6eabc93f0be4ccdd5",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004560252368-6orlut1v6lsh9roeemvteg9tsn7f2cjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZvZNZ1SFJDxhttgtPcaVRt4bBV-D0xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004560252368-6orlut1v6lsh9roeemvteg9tsn7f2cjm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004560252368-tucs6sf94f63h4u8svp6fb2gn65o9p3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googlemapworkshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004560252368:android:591b332b1367cae14ccdd5",
+        "android_client_info": {
+          "package_name": "com.example.googlemapworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004560252368-6orlut1v6lsh9roeemvteg9tsn7f2cjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZvZNZ1SFJDxhttgtPcaVRt4bBV-D0xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004560252368-6orlut1v6lsh9roeemvteg9tsn7f2cjm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004560252368-tucs6sf94f63h4u8svp6fb2gn65o9p3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googlemapworkshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

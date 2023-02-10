@@ -23,7 +23,7 @@ class RegisterScreen extends StatelessWidget {
                 alignment: Alignment.center,
                 child: Image.asset("images/logo.png")),
             Text(
-              "Register as a Rider",
+              "Register as a Driver",
               style: TextStyle(fontSize: 20),
             ),
             Padding(

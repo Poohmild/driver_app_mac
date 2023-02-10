@@ -9,8 +9,8 @@ import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {
   LoginScreen({super.key});
-  var input_email = TextEditingController(text: "mmm@gmail.com");
-  var input_password = TextEditingController(text: "123456");
+  var input_email = TextEditingController(text: "");
+  var input_password = TextEditingController(text: "");
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -22,7 +22,7 @@ class LoginScreen extends StatelessWidget {
                 alignment: Alignment.center,
                 child: Image.asset("images/logo.png")),
             Text(
-              "login as a Rider",
+              "login as a Driver",
               style: TextStyle(fontSize: 20),
             ),
             Padding(

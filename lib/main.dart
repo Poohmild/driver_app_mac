@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => AppData(),
       child: MaterialApp(
-        title: 'Taxi Rider App',
+        title: 'Taxi Diver App',
         theme: ThemeData(
             fontFamily: "Brand Bold",
             visualDensity: VisualDensity.adaptivePlatformDensity),
